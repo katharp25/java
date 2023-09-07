@@ -19,7 +19,8 @@ function App() {
         </a>
       </header>
       <div className="container-fluid">
-            <h2> Pradip </h2>
+            <h2> Soumya </h2>
+            
       </div>
       <div></div>
     </div>
