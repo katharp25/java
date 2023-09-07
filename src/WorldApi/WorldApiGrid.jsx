@@ -34,7 +34,7 @@ const WorldApiGrid = () => {
                                     <td>{index + 1}</td>
                                     <td>{time.split("/")[0]}</td>
                                     <td>{time.split("/")[1]}</td>
-                                    <td><Link to={`/${time}`} className="btn btn-primary">Get Time</Link></td>
+                                    <td><Link to={`/${time}`} className="btn btn-primary">Get Time </Link></td>
                                 </tr>
                             )
                         })
