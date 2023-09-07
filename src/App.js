@@ -18,6 +18,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <div className="container-fluid">
+            <h2> Pradip </h2>
+      </div>
+      <div></div>
     </div>
   );
 }
