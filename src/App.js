@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route path="/" element={<WorldApiGrid />} />
-        <Route path="/:area" element={<GetTimeZone />} />
+        <Route path="/:area/:timezone" element={<GetTimeZone />} />
       </Routes>
     </div>
   );
